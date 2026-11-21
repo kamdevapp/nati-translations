@@ -1,0 +1,16 @@
+{
+ "languages": [
+  {
+   "code": "en",
+   "name": "English",
+   "file": "en.json",
+   "progress": 100
+  },
+  {
+   "code": "pl",
+   "name": "Polski",
+   "file": "pl.json",
+   "progress": 100
+  }
+ ]
+}
